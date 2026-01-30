@@ -3,11 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=SanjanaJadhav2802&color=blue&style=flat" />
 </p>
 
-<!-- Coding Illustration -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SanjanaJadhav2802/SanjanaJadhav2802/main/coding.png" width="300" alt="Coding Illustration"/>
-</p>
-
 <h1 align="center">Hi there! 👋 My name is Sanjana Jadhav</h1>
 <h3 align="center">Data Analyst | Business Analyst | Software Testing & Automation</h3>
 
