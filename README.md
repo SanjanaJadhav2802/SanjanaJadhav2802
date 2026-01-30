@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi there! 👋 My name is Sanjana Jadhav</h1>
-<h3 align="center">Data Analyst | Software Testing & Automation</h3>
+<h3 align="center">Data Analyst | Business Analyst | Software Testing & Automation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/SanjanaJadhav2802?affiliations=OWNER%2CCOLLABORATOR&style=social"/>
@@ -84,6 +84,4 @@ I am passionate about learning new tools and continuously improving my skills in
 
 
 ---
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
-
 ⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
